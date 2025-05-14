@@ -1,0 +1,16 @@
+# Visual Studio/VS Code files
+.vs/
+.vscode/
+
+# Build directories
+build/
+bin/
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.pdb
+
+# Dependency build artifacts
+libs/glfw-3.4/build/
