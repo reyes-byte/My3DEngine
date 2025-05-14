@@ -6,6 +6,7 @@ This project uses OpenGL, GLFW, GLAD, and GLM to create a 3D rendering engine. T
 
 
 ## Milestone 1: Window Creation
+! [Milestone 1 Window] (screenshots/milestone1.png)
 - Created an 800 x 600 OpenGL window using GLFW and GLAD
 - Fixed "too many inializer values" and "class Window has no members" by correcting 'Renderer.h".
 - Resolved GLAD header conflict and build issues to generate 'My3DEngine.exe' .
